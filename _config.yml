@@ -24,13 +24,13 @@ repository               : "JiaceWu/JiaceWu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Jiace Wu"
+  pronouns         : "she/her"
+  bio              : "Master of Mechanical Engineering, research direction: ultrasonic processing, honeycomb composite materials, defect detection. Doctoral research interests: Composite material defect detection, special processing of difficult-to-machine materials."
+  location         : "Nanchang, Jiangxi, China"
+  employer         : "Hangzhou Dianzi University"
+  uri              : "https://github.com/JiaceWu"
+  email            : "jiace.wu03@gmial.com" 
 
   # Academic websites
   academia         : # URL
