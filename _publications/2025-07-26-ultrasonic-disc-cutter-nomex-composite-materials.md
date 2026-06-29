@@ -1,3 +1,4 @@
+---
 title: "Study on cutting force of ultrasonic cutting disc cutter for Nomex honeycomb material"
 collection: publications
 category: manuscripts
