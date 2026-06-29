@@ -26,4 +26,4 @@ Huawei Ji, Jiace Wu, and Xiaoping Hu planned the research. Jiace Wu and Weijun H
 This study was funded by the National Natural Science Foundation of China (No.51975173).
 
 ## Download Full Paper
-[Download PDF](/files/Published Journal Article - SCI Q2.pdf)
+[Download PDF](/files/Study on cutting force of ultrasonic cutting disc cutter for Nomex honeycomb material.pdf)
