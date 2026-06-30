@@ -9,7 +9,7 @@ sidebar: true
 author_profile: true
 ---
 
-<div style="color:#000000;">
+
 # Welcome to Jiace Wu's Homepage
 ## Contact Information
 - Tel: +86 19550151003
@@ -74,4 +74,3 @@ Opto-Mechanical Structure Design Engineer
 Assistant Structural Engineer Intern
 - Generative design & stress simulation of motorcycle parts by SolidEdge;
 - 2D engineering drawing drafting for automotive structural components.
-</div>
