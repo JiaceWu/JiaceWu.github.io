@@ -2,8 +2,9 @@
 layout: splash
 title: Jiace Wu's Academic Homepage
 excerpt: Master student of Mechanical Engineering, focusing on ultrasonic machining of honeycomb composite materials
-header:
+header: 
   overlay_color: "#ffffff"
+  text_color: "#000000"
 sidebar: true
 author_profile: true
 ---
@@ -14,6 +15,7 @@ author_profile: true
 - Tel: +86 19550151003
 - Email: Jiace.Wu03@gmail.com
 - Full CV Download: [Download My CV](/files/CV-Jiace Wu.pdf)
+
 
 ## Education
 ### Hangzhou Dianzi University | Hangzhou, China
@@ -48,7 +50,7 @@ Ultrasonic vibration-assisted machining, Nomex/wave-absorbing honeycomb composit
 1. **Wu J, Hu X, Ji H, Zhu Q, Hong W.** Study on cutting force of ultrasonic cutting disc cutter for Nomex honeycomb material. *The International Journal of Advanced Manufacturing Technology*, 2025, 139:4339–4351. (SCI Q2)
    DOI: https://doi.org/10.1007/s00170-025-16166-7
 2. **Wu J, Hu X, Ji H.** Study of equivalent mechanical parameters out-of-plane of wave-absorbing honeycomb panel and core layer. *Journal of Hangzhou Dianzi University (Natural Sciences)*, 2024, 44(3):94–102. (Chinese Core Journal)
-   DOI: https://doi.org/13954/j.cnki.hdu.2024.03.013
+   DOI: https://doi.org/10.13954/j.cnki.hdu.2024.03.013
 
 ## Competition Awards
 1. National Postgraduate Innovation Competition, Second Prize, 2022
